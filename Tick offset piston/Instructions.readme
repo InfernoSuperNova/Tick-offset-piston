@@ -1,0 +1,9 @@
+﻿        How to use:
+        Make a group of pistons called "StaiblizedPistons"
+        That's it, you're good to go!
+
+
+
+        What this program is for:
+        When you fire a gatling gun or any weapon, the projectile appears where it was one physics frame ago.
+        This program aims to move the gun forward by one physics frame, so that the projectile appears where the gun is.
